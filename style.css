@@ -8,8 +8,12 @@
 h1{
     color:teal
 }
-h2,h3{
+h2{
     color: turquoise
+}
+h3{
+    color: cadetblue;
+
 }
 
 .large-img{
@@ -19,4 +23,11 @@ h2,h3{
 
 .tab{
     margin-left: 50px;
+}
+
+[class="tab"]{
+    color: palevioletred;
+    font-size: 20px;
+    font-weight: bold;
+    
 }
