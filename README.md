@@ -1,0 +1,1 @@
+A simple project to go over what i have learned in free Code Camp "basic CSS"
