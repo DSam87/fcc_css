@@ -1,0 +1,22 @@
+
+:root{
+    font-family: 'Roboto Condensed', monospace;
+    font-size: 18px;
+    background-color: white;
+}
+
+h1{
+    color:teal
+}
+h2,h3{
+    color: turquoise
+}
+
+.large-img{
+    width: 345px;
+}
+
+
+.tab{
+    margin-left: 50px;
+}
